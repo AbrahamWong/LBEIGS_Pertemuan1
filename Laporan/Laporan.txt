@@ -1,0 +1,10 @@
+Laporan 3 Maret 2018
+Mempelajari tentang : 
+- Membuat dan mempelajari sprite di Unity
+- Membuat scene
+- Membuat C# script
+- Melihat efek - efek kode pada script terhadap game yang dibuat
+- Mempelajari beberapa jenis fungsi pada C#, contoh OnMouseEnter(), OnMouseDown(), Awake(), dll.
+- Membedakan variabel private, protected, dan public
+- Menambahkan script pada sprite
+- Mempelajari cara penggunaan GitHub, apa itu repository, dll.
